@@ -59,5 +59,6 @@ WIN_COMBINATIONS = [
     index = won?(board)
     if index == false 
       return nil
-    end
+    else 
+      if 
     
